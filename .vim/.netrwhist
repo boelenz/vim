@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/tonb/Dropbox/settings/cygwinhome/logs/daily'
+let g:netrw_dirhist_2='/home/tonb/.vim'
+let g:netrw_dirhist_3='/home/tonb'
+let g:netrw_dirhist_4='/home/tonb/scripts'
+let g:netrw_dirhist_5='/home/tonb/.temp/home/tonb/.temp/tempgitclone/daily_logs.051014000001.git'
