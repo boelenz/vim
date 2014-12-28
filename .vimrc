@@ -9,6 +9,7 @@ set nocompatible
 filetype plugin on
 syntax on
 set spell spelllang=nl
+set nojoinspaces "nojs: prevents inserting two spaces after punctuation on a join (it's not 1990 anymore)
 
 let vimwiki_path='~/text/vimwiki/'
 let vimwiki_export_path='~/temp/vimwiki_html/'
