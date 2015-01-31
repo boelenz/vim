@@ -1,6 +1,6 @@
 " Reformat paragraphs and list.
 nnoremap R {gq}
-nnoremap W :VimwikiAll2HTML<CR> :! unison wiki<CR>
+" nnoremap W :VimwikiAll2HTML<CR> :! unison wiki<CR>
 nnoremap <silent> <C-j> :cnext<CR> 
 nnoremap <silent> <C-k> :cprevious<CR> 
 nnoremap <silent> <C-o> :copen<CR> 
